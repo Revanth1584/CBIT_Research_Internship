@@ -9,8 +9,7 @@ Coursera Badge Status License
 This repository marks the successful completion of the "Python Essentials" course as part of my research internship at CBIT (Chaitanya Bharathi Institute of Technology).
 The course was delivered via Coursera in collaboration with IBM and Google Labs, covering key foundational skills in Python for data analysis, AI, and machine learning.
 
-🔗 Certificate of Completion:
-👉 View Verified Certificate
+🔗 Certificate of Completion: https://coursera.org/share/a14370cbd484e43d8a5cb51aa1ea8835
 
 🛠️
 Summary: Learned the fundamentals of Python including variables, conditionals, loops, and basic functions.
