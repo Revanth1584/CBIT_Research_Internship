@@ -14,3 +14,11 @@ The course was delivered via Coursera in collaboration with IBM and Google Labs,
 
 🛠️
 Summary: Learned the fundamentals of Python including variables, conditionals, loops, and basic functions.
+
+
+#2. Introduction to Machine Learning Concepts — Microsoft Learn
+Platform: Microsoft Learn
+Completion: July 2025
+Certificate: https://learn.microsoft.com/api/achievements/share/en-us/RkRevanthKaushik-3670/8Z599EGW?sharingId=A420847D2D1653BE
+Summary:
+Completed a foundational module on machine learning covering supervised vs. unsupervised learning, classification vs. regression, model evaluation techniques (precision, recall, accuracy), and ethical AI practices. Gained beginner-level proficiency in identifying ML use cases and understanding model performance metrics.
