@@ -66,13 +66,13 @@ Try it live (mobile-friendly) 👉 [Multimodal Prescription Translator](https://
 
 ## 🛠️ Tech Stack
 
-| Component | Technology | Emoji |
-|-----------|------------|-------|
-| Core Logic | Python | 🐍 |
-| Web UI | Gradio | 🎨 |
-| Audio Transcription | SpeechRecognition & pydub | 🎤 |
-| Translation | deep-translator | 🌐 |
-| Deployment | Hugging Face Spaces | 🚀 |
+| Component | Technology | 
+|-----------|------------|
+| Core Logic | Python | 
+| Web UI | Gradio | 
+| Audio Transcription | SpeechRecognition & pydub | 
+| Translation | deep-translator | 
+| Deployment | Hugging Face Spaces | 
 
 ---
 
