@@ -32,36 +32,55 @@ Learned the basics of classification, regression, evaluation metrics, and loss f
 
 🔗 [View Certificate](https://learn.microsoft.com/api/achievements/share/en-us/RkRevanthKaushik-3670/8Z599EGW?sharingId=A420847D2D1653BE)
 
+
 ------
-🎓 Capstone Project
-🩺 Multimodal Prescription Translator
-Automatically transcribe patient audio and translate it into multiple languages for easier medical understanding.
+# 🎓 Capstone Project: 🩺 Multimodal Prescription Translator
 
-📸 Overview
-Doctors and healthcare professionals often give verbal instructions or write short notes in prescriptions. Understanding them can be challenging for patients. This app:
+Automatically **transcribe patient audio** and **translate it into multiple languages** for easier medical understanding.  
 
-Transcribes patient audio 🎤
-Translates the extracted text 🌐
-Provides a simple interface for quick results 🖥️
-🚀 Live Demo
-Try it live (mobile-friendly) 👉 Multimodal Prescription Translator
+---
 
-How to use:
+## 📸 Overview
 
-Upload a patient audio file 🎧
-Select target language 🌎
-Get instant transcription and translation ✨
-🛠️ Tech Stack
-Python – Core logic and processing 🐍
-Gradio – Interactive web UI 🎨
-SpeechRecognition & pydub – Audio transcription 🎤
-deep-translator – Multilingual translation 🌐
-Hugging Face Spaces – Free hosting & deployment 🚀
-🧠 How It Works
-Upload an audio file 🎧
-The app converts it to a compatible format (wav)
-Audio is transcribed to text using SpeechRecognition
-Transcribed text is sent to GoogleTranslator for target language translation
-Results are displayed in two boxes:
-Extracted text 🔹
-Translated text 🔹
+Doctors and healthcare professionals often give **verbal instructions** or write **short notes** in prescriptions. Understanding them can be challenging for patients.  
+
+This app provides:  
+
+- 🎤 **Audio transcription** – convert patient speech to text  
+- 🌐 **Translation** – translate the text into multiple languages  
+- 🖥️ **Interactive UI** – simple interface for quick results  
+
+---
+
+## 🚀 Live Demo
+
+Try it live (mobile-friendly) 👉 [Multimodal Prescription Translator](https://revanthkaushik-multimodal-prescription-translate.hf.space/?__theme=dark&deep_link=izwRpCP-cIc)
+
+**How to use:**  
+
+1. 🎧 Upload a patient audio file  
+2. 🌎 Select target language  
+3. ✨ Get instant transcription + translation  
+
+---
+
+## 🛠️ Tech Stack
+
+| Component | Technology | Emoji |
+|-----------|------------|-------|
+| Core Logic | Python | 🐍 |
+| Web UI | Gradio | 🎨 |
+| Audio Transcription | SpeechRecognition & pydub | 🎤 |
+| Translation | deep-translator | 🌐 |
+| Deployment | Hugging Face Spaces | 🚀 |
+
+---
+
+## 🧠 How It Works
+
+```mermaid
+graph TD
+A[Upload Audio 🎧] --> B[Convert to WAV 🔄]
+B --> C[Transcribe using SpeechRecognition 🎤]
+C --> D[Translate text with GoogleTranslator 🌐]
+D --> E[Display Results 🔹 Extracted + Translated Text 🔹]
