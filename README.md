@@ -33,6 +33,7 @@ Learned the basics of classification, regression, evaluation metrics, and loss f
 🔗 [View Certificate](https://learn.microsoft.com/api/achievements/share/en-us/RkRevanthKaushik-3670/8Z599EGW?sharingId=A420847D2D1653BE)
 
 ------
+🎓 Capstone Project
 🩺 Multimodal Prescription Translator
 Automatically transcribe patient audio and translate it into multiple languages for easier medical understanding.
 
