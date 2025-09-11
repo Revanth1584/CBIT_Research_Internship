@@ -31,6 +31,35 @@ Completed the **"Introduction to Machine Learning Concepts"** module by **Micros
 Learned the basics of classification, regression, evaluation metrics, and loss functions.
 
 🔗 [View Certificate](https://learn.microsoft.com/api/achievements/share/en-us/RkRevanthKaushik-3670/8Z599EGW?sharingId=A420847D2D1653BE)
+-----
+# 🏆 **Certification #3 — Build Real World AI Applications with Gemini & Imagen**  
+[![View Badge](https://img.shields.io/badge/Credly-Badge-blue?style=for-the-badge&logo=credly)](https://www.credly.com/badges/0d733742-aa5f-4ad2-9cb1-abaf82a40d74/linked_in_profile)
+
+## ✨ What is this? (Medium — `##`)
+A hands-on skill badge focused on building **real-world AI applications** using:
+- **Gemini** 🤖 — Google’s multimodal AI  
+- **Imagen** 🖼️ — Text-to-image generation  
+
+### 🔥 Key Learning Outcomes (Smaller — `###`)
+- Build end-to-end **AI prototypes** that combine text & images.  
+- Implement **multimodal workflows** (text ↔ image).  
+- Deploy AI-driven solutions for real problems.
+
+#### ✅ Why this matters (Even smaller — `####`)
+This certificate shows practical experience with cutting-edge multimodal models and the ability to **design, implement, and ship AI applications**.
+
+---
+
+##### 📌 Certificate link (Small note — `#####`)
+👉 [View credential on Credly](https://www.credly.com/badges/0d733742-aa5f-4ad2-9cb1-abaf82a40d74/linked_in_profile)
+
+---
+
+###### ✨ Quick badge summary (Tiny — `######`)
+**Badge #3** — demonstrates hands-on ML+multimodal skills. 🚀
+
+> Tip: GitHub markdown controls visual size with heading levels. If you want **extra-large** or **custom fonts** on a GitHub Pages site, consider using an HTML block in a `.md` rendered page or use GitHub Pages (which supports full HTML/CSS).
+
 
 
 ------
